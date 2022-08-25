@@ -1,0 +1,15 @@
+﻿code,filename,urlid,Reviews,Pages,Rack_Rate,catgegory
+pc,pullmancairns.csv,d257801-Reviews-Pullman_Cairns_International,2656,266,$331,hotel
+prc,reefcasino.csv,d256432-Reviews-Pullman_Reef_Hotel_Casino,2357,236,$399,hotel
+sl,shangrila.csv,d256449-Reviews-Shangri_La_The_Marina_Cairns,3021,303,$360,hotel
+hil,hilton.csv,d255653-Reviews-Hilton_Cairns,2740,274,$350,resort
+me,mantraesp.csv,d256436-Reviews-Mantra_Esplanade_Cairns,2347,235,$329,resort
+cb,bailey.csv,d18937319-Reviews-Crystalbrook_Bailey,175,18,$345,hotel
+cf,flynn.csv,d19937778-Reviews-Crystalbrook_Flynn,132,14,$365,hotel
+cr,riley.csv,d14450704-Reviews-Crystalbrook_Riley,698,70,$425,hotel
+mt,mantratrilogy.csv,d489119-Reviews-Mantra_Trilogy_Cairns,2763,277,$325,resort
+nco,novotel.csv,d256455-Reviews-Novotel_Cairns_Oasis_Resort,279,28,$401,resort
+hildt,doubletree.csv,d255381-Reviews-DoubleTree_by_Hilton_Hotel_Cairns,2541,255,$340,resort
+ben,benson.csv,d23470282-Reviews-The_Benson_Hotel,78,8,$310,hotel
+royal,royalharbour.csv,d256453-Reviews-BreakFree_Royal_Harbour_Cairns,1044,105,$419,resort
+oaks,oaks.csv,d21093788-Reviews-Oaks_Cairns_Hotel,157,16,$359,hotel
