@@ -6,8 +6,6 @@ The files include a csv file listing 14 Cairns Hotel/Resorts and key information
 
 The second Notebook file is a NLP and DL processor which processes the data scraped and then predicts the reviews rating using a Keras Sequential model.
 
-The final file is a supportive capstone report requested by the lecturers.
-
 I trust you will have as much fun with this as I did creating it.
 
 Kind regards
